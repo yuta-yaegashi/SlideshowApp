@@ -14,6 +14,8 @@
 		7833DA312636C96300D0644A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7833DA302636C96300D0644A /* Assets.xcassets */; };
 		7833DA342636C96300D0644A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7833DA322636C96300D0644A /* LaunchScreen.storyboard */; };
 		78E2E390263B4BD700027BDF /* ResultViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 78E2E38F263B4BD700027BDF /* ResultViewController.swift */; };
+		78E2E394263FE51000027BDF /* IMG_1493 2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 78E2E393263FE51000027BDF /* IMG_1493 2.jpg */; };
+		78E2E397263FE52700027BDF /* IMG_0006.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 78E2E396263FE52700027BDF /* IMG_0006.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +28,9 @@
 		7833DA332636C96300D0644A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		7833DA352636C96300D0644A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		78E2E38F263B4BD700027BDF /* ResultViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResultViewController.swift; sourceTree = "<group>"; };
+		78E2E393263FE51000027BDF /* IMG_1493 2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "IMG_1493 2.jpg"; sourceTree = "<group>"; };
+		78E2E396263FE52700027BDF /* IMG_0006.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = IMG_0006.jpg; sourceTree = "<group>"; };
+		78E2E399263FE58000027BDF /* IMG_1521 2.heic */ = {isa = PBXFileReference; lastKnownFileType = file; path = "IMG_1521 2.heic"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +71,9 @@
 				7833DA302636C96300D0644A /* Assets.xcassets */,
 				7833DA322636C96300D0644A /* LaunchScreen.storyboard */,
 				7833DA352636C96300D0644A /* Info.plist */,
+				78E2E393263FE51000027BDF /* IMG_1493 2.jpg */,
+				78E2E396263FE52700027BDF /* IMG_0006.jpg */,
+				78E2E399263FE58000027BDF /* IMG_1521 2.heic */,
 			);
 			path = SlideshowApp;
 			sourceTree = "<group>";
@@ -127,6 +135,8 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				78E2E394263FE51000027BDF /* IMG_1493 2.jpg in Resources */,
+				78E2E397263FE52700027BDF /* IMG_0006.jpg in Resources */,
 				7833DA342636C96300D0644A /* LaunchScreen.storyboard in Resources */,
 				7833DA312636C96300D0644A /* Assets.xcassets in Resources */,
 				7833DA2F2636C96200D0644A /* Main.storyboard in Resources */,

@@ -7,18 +7,21 @@
 
 import UIKit
 
-class ResultViewController: UIViewController {
+class ResultViewController:UIViewController {
 
-    @IBOutlet weak var UIImage: UIImageView!
+
+    @IBOutlet weak var imageView: UIImageView!
     
-    //受け取るための変数
-    var x = 0
+    var x : UIImage?
+    
+    
+   
     
     override func viewDidLoad() {
         super.viewDidLoad()
 
         // Do any additional setup after loading the view.
-
+        imageView.image = self.x
     }
     
 
